@@ -1,0 +1,13 @@
+{
+    "ModTitle": "Balanced Spell Costs",
+    "ModVersion": "0.1",
+    "ModAuthor": "Kab the Bird Ranger",
+    "ContactInfo": "kaboissonneault@gmail.com",
+    "DFUnity_Version": "0.11.1",
+    "ModDescription": "Rebalanced the spell costs of all the classic spell effects",
+    "GUID": "9e8c907f-b13e-42c1-b769-27fbc063000c",
+    "Files": [
+        "Assets/Game/Mods/BalancedSpellCosts/Scripts/BalancedSpellCostsMod.cs",
+        "Assets/Game/Mods/BalancedSpellCosts/balancedspellcosts.dfmod.json"
+    ]
+}
